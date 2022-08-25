@@ -1,0 +1,20 @@
+.navigation{
+    height: 100vh;
+    background-color: rgb(221, 135, 55);
+}
+.navigation ul{
+    list-style: none;
+}
+.navigation ul li{
+    padding: 10px 0;
+}
+.navigation ul li a{
+    text-decoration: none;
+    color: black;
+}
+.image-table{
+    width: 100px;
+}
+.content{
+    background-color: rgb(236, 219, 161);
+}
